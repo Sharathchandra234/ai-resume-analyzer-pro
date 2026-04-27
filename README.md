@@ -9,7 +9,7 @@ The platform analyzes uploaded resumes, compares them with job descriptions, cal
 This project demonstrates practical capabilities in hiring-tech product design, resume analytics, NLP-style matching systems, dashboards, reporting, and cloud deployment.
 
 🌐 **Live Demo**
-(Add your Streamlit live link here)
+https://ai-resume-analyzer-pro-b9gyyscdjvjhvzkrxqdce9.streamlit.app/
 
 ---
 
@@ -178,7 +178,7 @@ This project highlights strengths in:
 
 # 📂 Professional Project Structure
 
-```text id="4822701"
+```text id="4822801"
 ai-resume-analyzer-pro/
 │── app.py
 │── requirements.txt
@@ -189,7 +189,7 @@ ai-resume-analyzer-pro/
 
 # ▶️ Run Locally
 
-```bash id="4822702"
+```bash id="4822802"
 pip install -r requirements.txt
 streamlit run app.py
 ```
@@ -198,7 +198,7 @@ streamlit run app.py
 
 # 🌍 Live Application
 
-(Add your deployed Streamlit link here)
+https://ai-resume-analyzer-pro-b9gyyscdjvjhvzkrxqdce9.streamlit.app/
 
 ---
 
